@@ -1,0 +1,7 @@
+/* App.css - Modern app background and smooth transitions */
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(120deg, #f8fafc 0%, #e0eafc 100%);
+  font-family: 'Segoe UI', Arial, sans-serif;
+  transition: background 0.3s;
+}
